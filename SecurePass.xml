@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<securePass>
+    <users>
+        <userId>jerinj</userId>
+        <password>jerinPass</password>
+        <firstName>Jerin</firstName>
+        <lastName>Joseph</lastName>
+        <passPhrase>jerinPassPhrase</passPhrase>
+        <failedPasswordAttempts>0</failedPasswordAttempts>
+        <sites>
+            <id>1</id>
+            <site>Amazon</site>
+            <userId>amzUser</userId>
+            <password>amzPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Yahoo</site>
+            <userId>yahUser</userId>
+            <password>yahPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Gmail</site>
+            <userId>gmlUser</userId>
+            <password>gmlPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Outlook</site>
+            <userId>outUser</userId>
+            <password>outPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>BOA</site>
+            <userId>boaUser</userId>
+            <password>boaPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+    </users>
+    <users>
+        <userId>johns</userId>
+        <password>johnPass</password>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <passPhrase>johnPassPhrase</passPhrase>
+        <failedPasswordAttempts>0</failedPasswordAttempts>
+        <lastFailedAttempt>2020-07-08 18:09:37</lastFailedAttempt>
+        <sites>
+            <id>1</id>
+            <site>Amazon</site>
+            <userId>amzUser</userId>
+            <password>amzPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Yahoo</site>
+            <userId>yahUser</userId>
+            <password>yahPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Gmail</site>
+            <userId>gmlUser</userId>
+            <password>gmlPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Outlook</site>
+            <userId>outUser</userId>
+            <password>outPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>BOA</site>
+            <userId>boaUser</userId>
+            <password>boaPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+    </users>
+    <users>
+        <userId>demo</userId>
+        <password>demo</password>
+        <firstName>Demo</firstName>
+        <lastName>User</lastName>
+        <passPhrase>demo</passPhrase>
+        <failedPasswordAttempts>0</failedPasswordAttempts>
+        <lastFailedAttempt>2020-07-08 18:09:37</lastFailedAttempt>
+        <sites>
+            <id>1</id>
+            <site>Amazon</site>
+            <userId>amzUser</userId>
+            <password>amzPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Yahoo</site>
+            <userId>yahUser</userId>
+            <password>yahPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Gmail</site>
+            <userId>gmlUser</userId>
+            <password>gmlPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>Outlook</site>
+            <userId>outUser</userId>
+            <password>outPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+        <sites>
+            <id>1</id>
+            <site>BOA</site>
+            <userId>boaUser</userId>
+            <password>boaPass</password>
+            <visibleByDefault>false</visibleByDefault>
+            <attributeList>
+                <attributeName>ATM PIN</attributeName>
+                <attributeValue>1122</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Customer Care No</attributeName>
+                <attributeValue>888-232-8757</attributeValue>
+            </attributeList>
+            <attributeList>
+                <attributeName>Pass Phrase</attributeName>
+                <attributeValue>Spell it out!</attributeValue>
+            </attributeList>
+        </sites>
+    </users>
+</securePass>
