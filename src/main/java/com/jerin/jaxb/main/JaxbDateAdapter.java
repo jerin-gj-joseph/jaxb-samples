@@ -7,7 +7,7 @@ import javax.xml.bind.annotation.adapters.XmlAdapter;
 
 public class JaxbDateAdapter extends XmlAdapter<String, Date> {
 
-	//Date formatter.
+	//Date formatter for the default format.
     private final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
     @Override
